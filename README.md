@@ -36,5 +36,6 @@ This tool helps you find the best location for a new Migros store in Zürich. Fo
 - In the example provided, the recommendation is to open a new Migros store in **Kreis 5**.
 ####
 **App demo**
+
 Feel free to test the [app demo](https://migroschallenge.streamlit.app/) and see how the recommendations change based on different priorities.
 
